@@ -1,0 +1,31 @@
+(1):
+
+for the first plot we can see that, overall, mergesort is better
+when we consider all cases (sorted, reversed, and random) together.
+
+However, when we compare individual cases between merge and insertion,
+we can observe from the plot that insertion is only better when the
+array is already sorted, which is not the main objective of sorting
+algorithms.
+
+the nubmer of comparisons insertion sort takes when the array is reversed
+or randomly ordered is incridibily high
+
+In summary, insertion sort is better when the array is mostly sorted already
+
+
+(2):
+
+plot two showed me that if I trult want to test the difference between
+two sorting algorithms in terms of number of comparisons, then I should
+try using large inputs. We observe again that insertion sort reversed
+and random are dominant in terms of large number of comparisons.
+
+There isn't much to observe from the other 4 lists tested
+(If you wish to visualize the difference between them, you can go to
+plot2.py and #comment out:
+plt.plot(x, y5, label = 'Insertion Sort reversed')
+plt.plot(x, y6, label = 'Insertion Sort random')
+
+insertion sort gives n-1 comparison when the array is sorted or nearly sorted
+but it gets a lot worse the closer to reversed order it gets

@@ -1,0 +1,77 @@
+-------------
+Testing on 10 words
+10 words sorted
+('number of comparisons', 9)
+10 words reversed
+('number of comparisons', 54)
+10 words random
+('number of comparisons', 35)
+-------------
+-------------
+Testing on 30 words
+30 words sorted
+('number of comparisons', 29)
+30 words reversed
+('number of comparisons', 464)
+30 words random
+('number of comparisons', 264)
+-------------
+
+-------------
+Testing on 100 words
+100 words sorted
+('number of comparisons', 100)
+100 words reversed
+('number of comparisons', 5048)
+100 words random
+('number of comparisons', 2426)
+-------------
+
+-------------
+Testing on 300 words
+300 words sorted
+('number of comparisons', 300)
+300 words reversed
+('number of comparisons', 45148)
+300 words random
+('number of comparisons', 22476)
+-------------
+
+-------------
+Testing on 1000 words
+1000 words sorted
+('number of comparisons', 1000)
+1000 reversed
+('number of comparisons', 500498)
+1000 words random
+('number of comparisons', 248592)
+-------------
+
+-------------
+Testing on 3000 words
+3000 words sorted
+('number of comparisons', 3000)
+3000 words reversed
+('number of comparisons', 4501498)
+3000 words random
+('number of comparisons', 2244778)
+-------------
+
+-------------
+Testing on 10000 words
+10000 words sorted
+('number of comparisons', 10000)
+10000 words reversed
+('number of comparisons', 50004998)
+10000 words random
+('number of comparisons', 24928746)
+-------------
+
+-------------
+Testing on all words
+all words sorted
+('number of comparisons', 87314)
+all words reversed
+('number of comparisons', 3811910947)
+all words random
+('number of comparisons', 1900942064)

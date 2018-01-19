@@ -1,0 +1,79 @@
+-------------
+Testing on 10 words
+10 words sorted
+number of comparisons: 34
+10 words reversed
+number of comparisons: 53
+10 words random
+number of comparisons: 82
+-------------
+
+-------------
+Testing on 30 words
+30 words sorted
+number of comparisons: 212
+30 words reversed
+number of comparisons: 271
+30 words random
+number of comparisons: 386
+-------------
+
+-------------
+Testing on 100 words
+100 words sorted
+number of comparisons: 901
+100 words reversed
+number of comparisons: 1101
+100 words random
+number of comparisons: 1216
+-------------
+
+-------------
+Testing on 300 words
+300 words sorted
+number of comparisons: 2994
+300 words reversed
+number of comparisons: 3594
+300 words random
+number of comparisons: 5195
+-------------
+
+-------------
+Testing on 1000 words
+1000 words sorted
+number of comparisons: 12125
+1000 words reversed
+number of comparisons: 14125
+1000 words random
+number of comparisons: 20431
+-------------
+
+-------------
+Testing on 3000 words
+3000 words sorted
+number of comparisons: 43258
+3000 words reversed
+number of comparisons: 49258
+3000 words random
+number of comparisons: 70382
+-------------
+
+-------------
+Testing on 10000 words
+10000 words sorted
+number of comparisons: 154989
+10000 words reversed
+number of comparisons: 174989
+10000 words random
+number of comparisons: 254116
+-------------
+
+-------------
+Testing on all words
+all words sorted
+number of comparisons: 1127233
+all words reversed
+number of comparisons: 1301861
+all words random
+number of comparisons: 2128330
+-------------
