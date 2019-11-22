@@ -1,4 +1,7 @@
 # sorting-Algorithm-Comparison
+
+## Summer 2017 Algorithms class homework
+
 Comparing performance between Insertion-Sort and Merge-Sort
 
 Consider the Mergesort and Insertion Sorting Algorithms. Implement these algorithms in Python. Given an input of size 𝑛 each method should return the number of comparisons (𝑛𝑐) performed. Run your algorithms for three different cases:
